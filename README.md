@@ -1,2 +1,4 @@
-My name is Anil Shrestha and i live in Lexington,KY.# hello-world
+# hello-world
 First
++ #about me
++ My name is Anil Shrestha.
